@@ -3,4 +3,4 @@
 ```
 $ git add .
 ```
-- [x] This is a task list
+- [ ] This is a task list
